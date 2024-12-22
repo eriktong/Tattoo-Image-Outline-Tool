@@ -34,4 +34,7 @@ This project is open-source and available under the MIT License.
 ## Screenshots
 ![Tattoo Outline Generator Screenshot](screenshot.png)
 
+# Tattoo Outline Generator
+
+Check out the live site: [Tattoo Outline Generator](https://tattoo-outline-generator.netlify.app)
 
